@@ -20,4 +20,4 @@ spec:
   subcomponentOf: messaging
   owner: team-messaging-1
   definition:
-    $text: https://raw.githubusercontent.com/vincentimes42/backstage-test/main/market-place-example/messaging/api/messaging-kafka-connector-api-swagger.yaml
+    $text: https://raw.githubusercontent.com/Zenika/backstage-demo-marketplace-dataset/main/market-place-example/messaging/api/messaging-kafka-connector-api-swagger.yaml

@@ -11,7 +11,7 @@ metadata:
     - url: https://www.gravitee.io/
       title: gravitee configuration page
   annotations:
-    gitlab.com/project-id: '11903463' #'250833'
+    gitlab.com/project-id: '11903463'
 spec:
   type: service
   lifecycle: production

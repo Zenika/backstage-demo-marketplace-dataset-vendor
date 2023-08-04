@@ -21,4 +21,4 @@ spec:
   consumesApis: [messaging-kafka-connector-api, inventory-api]
   owner: team-payment-1
   definition:
-    $text: https://raw.githubusercontent.com/vincentimes42/backstage-test/main/market-place-example/payment/api/payment-api-swagger.json
+    $text: https://raw.githubusercontent.com/Zenika/backstage-demo-marketplace-dataset/main/market-place-example/payment/api/payment-api-swagger.json
