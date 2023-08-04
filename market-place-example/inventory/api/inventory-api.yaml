@@ -21,4 +21,4 @@ spec:
   owner: team-inventory-1
   consumesApis: [messaging-kafka-connector-api]
   definition:
-    $text: https://github.com/swagger-api/swagger-petstore/blob/master/src/main/resources/openapi.yaml
+    $text: https://raw.githubusercontent.com/swagger-api/swagger-petstore/master/src/main/resources/openapi.yaml
