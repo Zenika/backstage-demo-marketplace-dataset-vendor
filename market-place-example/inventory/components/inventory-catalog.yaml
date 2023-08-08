@@ -11,7 +11,8 @@ metadata:
     - url: https://www.gravitee.io/
       title: gravitee configuration page
   annotations:
-    gitlab.com/project-id: '250833'
+    gitlab.com/project-id: "250833"
+    newrelic.com/dashboard-guid: NDA4ODYwMHxWSVp8REFTSEJPQVJEfGRhOjIzOTQzNQ
 spec:
   type: service
   lifecycle: production

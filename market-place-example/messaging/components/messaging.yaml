@@ -16,7 +16,8 @@ spec:
   providesApis:
     - messaging-kafka-connector-api
   annotations:
-    gitlab.com/project-id: '25375882'
+    gitlab.com/project-id: "25375882"
+    newrelic.com/dashboard-guid: NDA4ODYwMHxWSVp8REFTSEJPQVJEfGRhOjIzOTQzNQ
   dependsOn:
     - resource:default/messaging-kafka-zookeepers
     - resource:default/messaging-kafka-brokers
