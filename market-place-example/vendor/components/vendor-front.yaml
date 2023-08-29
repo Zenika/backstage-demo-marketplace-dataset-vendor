@@ -10,7 +10,9 @@ metadata:
     - url: https://react.dev/
       title: public url
   annotations:
-    gitlab.com/project-id: '5261717'
+    gitlab.com/project-id: "5261717"
+    backstage.io/adr-location: adrs
+    backstage.io/techdocs-ref: dir:../../../
 spec:
   type: website
   lifecycle: production

@@ -1,3 +1,3 @@
 # example docs
 
-This is a test basic example of documentation.
+This is the home page of the vendor solution documentation.

@@ -10,7 +10,9 @@ metadata:
     - url: https://play.google.com/
       title: google playstore app page
   annotations:
-    gitlab.com/project-id: '14201241'
+    gitlab.com/project-id: "14201241"
+    backstage.io/adr-location: adrs
+    backstage.io/techdocs-ref: dir:../../../
 spec:
   type: website
   lifecycle: experimental
