@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: vendor-example
+  description: A collection of all vendor example entities, except users, groups, and templates
+spec:
+  targets:
+    - ./market-place-example/vendor/all.yaml
